@@ -1,0 +1,1 @@
+print(input("What is your name?\n ")  + input("what is your pet's name?\n"))
